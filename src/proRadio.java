@@ -3,8 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 /** 
- * 
- * VERSION 3
+ * VERSION 3 online
  */
 
 public class proRadio extends JFrame implements ActionListener {
